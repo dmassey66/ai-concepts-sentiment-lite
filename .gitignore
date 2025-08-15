@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit/Gradio cache
+.streamlit/
+gradio_cached_examples/
